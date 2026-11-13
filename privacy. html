@@ -1,0 +1,193 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy | Apna Mool Pachhan</title>
+<meta name="description" content="Read the privacy policy of Apna Mool Pachhan and learn how visitor information and cookies are handled.">
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fffdf7;
+  color: #333;
+  line-height: 1.8;
+}
+header {
+  background: #173d32;
+  color: white;
+  text-align: center;
+  padding: 30px 15px;
+}
+header h1 { color: #f5d47b; }
+nav {
+  background: #f5e5b5;
+  text-align: center;
+  padding: 15px 5px;
+}
+nav a {
+  color: #173d32;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 8px;
+  display: inline-block;
+}
+main {
+  max-width: 850px;
+  margin: auto;
+  padding: 20px;
+}
+section {
+  background: white;
+  padding: 22px;
+  margin: 18px 0;
+  border-radius: 10px;
+  border: 1px solid #ead9a5;
+}
+h2 { color: #956d18; }
+footer {
+  background: #173d32;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+footer a { color: #f5d47b; }
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Privacy Policy</h1>
+<p>Apna Mool Pachhan</p>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About Us</a>
+<a href="contact.html">Contact</a>
+<a href="privacy.html">Privacy Policy</a>
+<a href="disclaimer.html">Disclaimer</a>
+</nav>
+
+<main>
+
+<section>
+<h2>Introduction</h2>
+<p>
+Welcome to Apna Mool Pachhan.
+We respect your privacy and are committed
+to protecting the information of our visitors.
+This Privacy Policy explains how information
+may be collected and used when you visit
+our website.
+</p>
+</section>
+
+<section>
+<h2>Information We Collect</h2>
+<p>
+We may collect information that visitors
+voluntarily provide, such as their name
+and email address when contacting us.
+</p>
+<p>
+Basic technical information, such as browser
+type, device information and website usage
+data, may also be collected through website
+services.
+</p>
+</section>
+
+<section>
+<h2>Cookies</h2>
+<p>
+Our website and third-party services may
+use cookies to improve website functionality,
+understand visitor activity and provide
+relevant advertisements.
+</p>
+<p>
+Visitors can manage cookies through their
+browser settings.
+</p>
+</section>
+
+<section>
+<h2>Google AdSense and Advertising</h2>
+<p>
+We may use Google AdSense or other advertising
+services to display advertisements.
+Third-party advertising providers may use
+cookies or similar technologies to show
+advertisements based on visits to this and
+other websites.
+</p>
+<p>
+Google's use of advertising cookies is subject
+to Google's own privacy policies and settings.
+</p>
+</section>
+
+<section>
+<h2>Third-Party Links</h2>
+<p>
+Our website may contain links to external
+websites. We are not responsible for the
+privacy practices or content of those
+third-party websites.
+</p>
+</section>
+
+<section>
+<h2>Data Security</h2>
+<p>
+We take reasonable steps to protect information
+provided to us. However, no method of
+transmission or storage over the internet
+can be guaranteed to be completely secure.
+</p>
+</section>
+
+<section>
+<h2>Children's Privacy</h2>
+<p>
+Our website is not intended to knowingly
+collect personal information from children.
+Parents or guardians who believe a child
+has provided personal information may
+contact us.
+</p>
+</section>
+
+<section>
+<h2>Changes to This Policy</h2>
+<p>
+We may update this Privacy Policy from
+time to time. Any changes will be published
+on this page.
+</p>
+</section>
+
+<section>
+<h2>Contact Us</h2>
+<p>
+If you have questions about this Privacy
+Policy, please contact us through our
+<a href="contact.html">Contact Us page</a>.
+</p>
+</section>
+
+</main>
+
+<footer>
+<p>© 2026 Apna Mool Pachhan. All Rights Reserved.</p>
+<a href="index.html">Home</a> |
+<a href="about.html">About Us</a> |
+<a href="contact.html">Contact</a>
+</footer>
+
+</body>
+</html>
